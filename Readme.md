@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Dive School App](https://github.com/josemiguelgomes/spring-diving-school)
 
-- 🌱 I’m currently learning more Java, Golang, Scala and some more Architectural Solutions...
+- 🌱 I’m currently learning more Java, Golang, Scala , Kafka and some more Architectural Solutions...
 
 - 👯 I’m looking to collaborate on Open Sources Apps
 
