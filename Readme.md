@@ -3,13 +3,13 @@
 [![Facebook URL](https://img.shields.io/static/v1?color=red&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/miguel.gomes.5855)
 
 
-**I speak COBOL + CICS + DB2 (mainframe), C/C++, Java, Springboot and more languages...**
+**I speak COBOL + CICS + DB2 (mainframe), C/C++, Java, Springboot, Kubernetes, Docker and more languages...**
 
 - I’m currently open for a new job opportunity
 
 - 🔭 I’m currently working on [Dive School App](https://github.com/josemiguelgomes/spring-diving-school)
 
-- 🌱 I’m currently learning more Java, Golang, Scala , Kafka and some more Architectural Solutions...
+- 🌱 I’m currently learning more Java, Golang, Scala, Kafka, and some more Architectural Solutions...
 
 - 👯 I’m looking to collaborate on Open Sources Apps
 
