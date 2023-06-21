@@ -13,9 +13,9 @@
 
 - 👯 I’m looking to collaborate on Open Sources Apps
 
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with building a JJ-CCR Portuguese community
 
-- 💬 Ask me about JJ-CCR Rebreather !!!
+- 💬 Ask me about JJ-CCR Rebreather diving !!!
 
 - 📫 How to reach me: jose_miguel_gomes@hotmail.com
 
