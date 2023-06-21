@@ -22,7 +22,7 @@
 - ⚡ Fun fact: "The sound of Darth Vader’s difficult breathing was made with a scuba regulator" 
 
 
-**NOTE**: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
+**NOTE**: *Top languages do not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub.*
 
 <a href="https://github.com/josemiguelgomes/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=josemiguelgomes&count_private=true&show_icons=true&theme=radical&hide_border=false" />
