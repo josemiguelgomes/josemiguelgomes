@@ -3,7 +3,7 @@
 [![Facebook URL](https://img.shields.io/static/v1?color=red&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/miguel.gomes.5855)
 
 
-**I speak COBOL + CICS + DB2 (mainframe), C/C++, Java, Springboot, Kubernetes, Docker and more languages...**
+**I speak COBOL + CICS + DB2 (mainframe), C/C++, Java, Springboot, Kubernetes, Docker, and more languages...**
 
 - I’m currently open for a new job opportunity
 
